@@ -1,0 +1,50 @@
+#sendha {
+    filter: blur(4px);
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px 2px black;
+
+}
+
+#tongue {
+    filter: blur(4px);
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px 2px black;
+
+}
+
+#koyal {
+    filter: blur(4px);
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px 2px black;
+
+}
+
+#sendha:hover {
+    transition: 2s;
+    transform: scale(1.2);
+    filter: none;
+}
+
+#tongue:hover {
+    transition: 2s;
+    transform: scale(1.2);
+    filter: none;
+
+}
+
+#koyal:hover {
+    transition: 2s;
+    transform: scale(1.2);
+    filter: none;
+
+}
+
+span {
+    filter: drop-shadow(2px 4px 2px black);
+    color: white;
+}
+
+span:hover {
+    transition: 3s;
+    transform: translate(0px, -100px);
+}
